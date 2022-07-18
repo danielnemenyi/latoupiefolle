@@ -3,6 +3,8 @@ title: About
 permalink: /about
 ---
 
+<img style="float: right; margin-left: 10px; width: 40%;" src="/assets/img/recherches-1973.webp">
+
 Our research project, *The Pragmatic Genealogy of Concepts* funded by a
 Small Grant from the British Academy and Leverhulme Trust, concerns, as
 its primary object, an issue of the journal *Recherches* (number 13)
