@@ -1,0 +1,4 @@
+---
+title: "Proust"
+type: "person"
+---

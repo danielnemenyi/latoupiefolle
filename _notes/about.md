@@ -3,7 +3,7 @@ title: About
 permalink: /about
 ---
 
-<img style="float: right; margin-left: 10px; width: 40%;" src="/assets/img/recherches-1973.webp">
+<img style="float: right; margin-left: 1em; width: 40%;" src="/assets/img/recherches-1973.webp">
 
 Our research project, *The Pragmatic Genealogy of Concepts* funded by a
 Small Grant from the British Academy and Leverhulme Trust, concerns, as
@@ -101,14 +101,12 @@ is a visiting research fellow at the Centre for Humanities and Health,
 King's College London, a member of the collective *Other Ways to Care*,
 and cofounder of *Chaosmosemedia*.
 
-Over the course of 5 years she co-developed with Godofredo Pereira the
+Over the course of 5 years she co-developed with [[Godofredo Pereira]] the
 research project '[CERFI. Militant Analysis, Collective Equipment and
 Institutional
 Programming'](https://www.rca.ac.uk/research-innovation/projects/cerfi-militant-analysis-collective-equipment-and-institutional-programming/)
-(link to
-[here](https://www.rca.ac.uk/research-innovation/projects/cerfi-militant-analysis-collective-equipment-and-institutional-programming/))
 recovering the overlooked conceptual and practical legacy of the
-research cooperative CERFI (1967-1987) founded by Félix Guattari. This
+research cooperative CERFI (1967-1987) founded by [[Félix Guattari]]. This
 involved in-depth interviews and conversations with CERFI's members
 and collaborators, interviews with groups who have been influenced by
 the legacy of CERFI, translations and extensive analysis of newly
@@ -125,19 +123,19 @@ Dean (Research) at King's College. He wrote his phd on the French
 literary and theoretical journal Tel Quel, in 1993, under the
 supervision of Professor Annette Lavers at the University College
 London. As a British Academy Postdoctoral Fellow at University College
-he worked on Georges Bataille and 20th-century French intellectual
+he worked on [[Georges Bataille]] and 20th-century French intellectual
 history, before moving to King's College London in 1999. The four books
 that have resulted from this work are: *The Time of Theory: A History of
 Tel Quel* (1996); *The Cut: reading Bataille's Story of the Eye* (2000);
 *After Bataille: Sacrifice, Exposure, Community* (2007) and, co-edited and
 translated with Roland-François Lack, *The Tel Quel Reader*
-(2003).  Patrick's research ranges across French literature, philosophy
+(2003). Patrick's research ranges across French literature, philosophy
 and culture of the 20th-century, with a particular focus on critical
-theory, literature and film. He has written on Maurice Blanchot, Roland
-Barthes, Jean-Luc Nancy, Gilles Deleuze and Felix Guattari. More
+theory, literature and film. He has written on [[Maurice Blanchot]], [[Roland Barthes]], 
+[[Jean-Luc Nancy]], [[Gilles Deleuze]] and [[Guattari|Félix Guattari]]. More
 recently his work is about film philosophy and film theory; his two most
 recent books focus on resonances of a cinematographic imaginary in
-Proust's A la recherche du temps perdu (*Thinking Cinema with Proust*,
+[[Proust]]'s A la recherche du temps perdu (*Thinking Cinema with Proust*,
 Legenda, 2018) and cinema in the work of Roland Barthes (*Roland Barthes
 and Film*, Bloomsbury, 2019).
 
@@ -150,6 +148,7 @@ Research in Modern European Philosophy (CRMEP) Kingston University,
 Philosophy](https://www.radicalphilosophy.com)* editorial collective,
 a visiting researcher at King's College London Department of Digital
 Humanities, and an [independent web
-developer](https://danielnemenyi.net/). He built this website.
+developer](https://danielnemenyi.net/). He is a research assistant on
+this project and developed the website.
 
 **Contact:** latoupiefolle.org@gmail.com
