@@ -37,7 +37,7 @@ issues are raising their head, or heads, so to speak.
 
 Looking around the edges of Issue 13 the story begins to emerge of a
 rather tortuous editorial process which involved three key 'scriptors'
-[[François Fourquet]], [[Lion Murard]] and [[Marie-Thérèse Vernet-Stragiotti]] and a
+[[François Fourquet]], [[Lion Murard]] and [[Marie-Thérèse Vernet-Straggiotti]] and a
 wider group, about which more later. What is fascinating though is how
 the journal issue in punctuated by what they call the 'interventions
 militantes', in which various actors (I'll name them in a minute) write
@@ -121,8 +121,7 @@ of Names\].
 
 - [[Siboni|Alain Siboni sometimes Sibony]]
 
-- [[Marie-Thérèse Vernet-Stragiotti]]
-
+- [[Marie-Thérèse Vernet-Straggiotti]]
 ### Discussants
 
 - [[Michel Foucault]]
@@ -145,7 +144,7 @@ Anne mentions:
 
 - [[Lion Murard|Lion (MURARD)]]
 
-- [[Vernet-Stragiotti|Marie Thérèse (VERNET-STRAGIOTTI)]]
+- [[Vernet-Straggiotti|Marie Thérèse (VERNET-STRAGGIOTTI)]]
 
 - [[Lévy|François (LÉVY)]]
 
@@ -300,7 +299,7 @@ In more detail:
 
   - Discussion: Guattari, Fourquet, [[Anne Querrien|Querrien]]
 
-  - Interventions militantes: Anne, [[Marie-Thérèse Vernet-Stragiotti|Marie-Thérèse]]
+  - Interventions militantes: Anne, [[Marie-Thérèse Vernet-Straggiotti|Marie-Thérèse]]
 
 - Chapter 5 -- Le Discours du Plan
 

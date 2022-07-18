@@ -69,13 +69,15 @@ affective and conceptual character of the research in the journal
 itself.
 
 *La toupie folle* **is an experiment in research and writing and the
-work is recorded here as it develops in the making.** The site features
-a regularly updated blog on the process of the research, as well as a
-number of resources such as a [Chronology]({% link _notes/chronology.md %}), an [Index of Names]({% link _pages/people.md %}) and of
-Concepts as they relate to R13 and a number of 'dossiers' on salient
-features of and around the work of the Genealogy group of CERFI. As part
-of the project we will also engage in a dialogue series with researchers
-whose work intersects with this research and a translation worlshops.
+work is recorded here as it develops in the making.** The site
+features a regularly updated blog on the process of the research, as
+well as a number of resources such as <a href="/chronology.md">Chronology</a>, 
+an <a href="/people">Index of
+Names</a> and of Concepts as they relate to R13 and a number of
+'dossiers' on salient features of and around the work of the Genealogy
+group of CERFI. As part of the project we will also engage in a
+dialogue series with researchers whose work intersects with this
+research and a translation worlshops.
 
 The project's researchers are [[Susana Caló|Dr Susana Caló]] and 
 [[Patrick ffrench|Professor Patrick ffrench]] who started working

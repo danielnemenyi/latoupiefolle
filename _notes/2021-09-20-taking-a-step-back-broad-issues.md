@@ -18,7 +18,7 @@ process of its composition was somewhat chaotic; specific sections are
 authored by different individuals or pairs of individuals within the
 group; some bits of text ended up not being included. Moreover, the
 group was not without its conflicts and hierarchies, with the
-'Genealogy' group consisting of [[Fourquet]], [[Murard]] and [[Vernet-Stragiotti]]
+'Genealogy' group consisting of [[Fourquet]], [[Murard]] and [[Vernet-Straggiotti]]
 [[Querrien]] and [[Lévy]] as somewhat peripheral or intermediary) having more
 power and authority. The point is that the 'collective' work of the
 group is characterised by a play or relation of forces, and these are

@@ -33,7 +33,7 @@ nouvelle démocratie*
 
 - October 1972 -- 'regulation' of 'Ville-métaphore' (Chapter 2)
 
-- October 1972 -- [[Vernet-Stragiotti|Marie-Thérèse Vernet-Stragiotti]] goes on holiday
+- October 1972 -- [[Vernet-Straggiotti|Marie-Thérèse Vernet-Straggiotti]] goes on holiday
 
 - November 1972 -- 'première mouture'
 

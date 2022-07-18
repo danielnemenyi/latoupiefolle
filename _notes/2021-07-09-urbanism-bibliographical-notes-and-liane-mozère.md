@@ -75,7 +75,7 @@ appears to emerge here between those who think of the city as
 'antiproduction' ([[Hervé Maury]]), with production on the side of the
 militant activity seemingly aligned with 'collective equipment'; Anne
 mentions that [[François Fourquet]], [[Lion Murard]] and
-[[Marie-Thérèse Vernet-Stragiotti]] have been attending Deleuze's
+[[Marie-Thérèse Vernet-Straggiotti]] have been attending Deleuze's
 lectures at Vincennes and have 'pirate' typescripts of it. These
 presumably enable a clearer situation and a more subtle dynamic
 between production and anti-production -- the city codes or stops the
@@ -394,7 +394,7 @@ Philippe Sollers (éd.), *Bataille*. Colloque de Cerisy, Paris 1973,
 75--105.
 
 Against this background the 'genealogy' group of CERFI (Fourquet,
-Murard, Querrien, Lévy, Vernet-Stragiotti): 'va chercher à montrer
+Murard, Querrien, Lévy, Vernet-Straggiotti): 'va chercher à montrer
 comment un équipement particulier n'est d'aucune utilité en dehors de
 sa fonction d'instrument de codage, de confinement, de limitation et
 d'éradication de l'énergie sociale libre'. I'd say that the terms

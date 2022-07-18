@@ -167,7 +167,7 @@ femmes'); in this context, the Genealogy group appears as a close
 'imaginary site', disconnected from the 'necessity' of permanent
 formation. It was in the Genealogy group that the relation between
 'executor and executed', and 'persecutor-persecuted' 'spoke' itself.
-Anne says that everyone relied on [[Marie-Thérèse Vernet-Stragiotti|Marie-Thérèse]] 
+Anne says that everyone relied on [[Marie-Thérèse Vernet-Straggiotti|Marie-Thérèse]] 
 to assuage the blockage of [[François Fourquet|François]] and [[Lion Murard|Lion]]. But MT went on holiday
 to Germany, pleading her wish to not be part of this and her love of
 conjugality. She was delegated the part on logical categories,
@@ -188,7 +188,7 @@ group for the preparation of the 'drague' issue. The group suddenly
 becomes invested by transsexual research which falls to the group of
 women; can sex itself be deterritorialised?
 
-**[[Marie-Thérèse Vernet-Stragiotti|Marie-Thérèse]]'s 'intervention
+**[[Marie-Thérèse Vernet-Straggiotti|Marie-Thérèse]]'s 'intervention
 militante', pp. 175-79,** 'La révolte des mètèques' (the title
 suggests those who were not formal citizens of the Greek city, i.e.
 those working in the periphery of CERFI.) is an extremely interesting
@@ -236,7 +236,7 @@ socius, and relations of force. The idea of consensus, of objective
 work, of a model of value and agreement is out of the window. Yes, there
 are conflicts, yes, theory is a doctrine, yes.
 
-[[Marie-Thérèse Vernet-Stragiotti|Marie-Thérèse]] also writes the next 'intervention militante' (191-94),
+[[Marie-Thérèse Vernet-Straggiotti|Marie-Thérèse]] also writes the next 'intervention militante' (191-94),
 where the relation to theory is also the primary topic. She is ware of a
 kind of hierarchy, with the 'grosses têtes' [[Foucault]], [[Deleuze]], [[Guattari]]
 constituting a kind of 'tribunal', something like a 'soutenance',

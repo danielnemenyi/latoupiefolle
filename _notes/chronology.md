@@ -472,7 +472,7 @@ CERFI 'Genealogy' group.**
 
 <div class="timeline-entry">
 	<h2>1971 (Autumn)</h2>
-	<p>[[Marie-Thérèse Vernet-Stragiotti|Marie-Thérèse Vernet]] approaches Foucault for CERFI Genealogy project (DM)</p>
+	<p>[[Marie-Thérèse Vernet-Straggiotti|Marie-Thérèse Vernet]] approaches Foucault for CERFI Genealogy project (DM)</p>
 </div>
 
 <div class="timeline-entry">
@@ -612,7 +612,7 @@ CERFI 'Genealogy' group.**
 
 <div class="timeline-entry">
 	<h2>1972 (October)</h2>
-	<p>CERFI Genealogy group’s ‘règlement de comptes’ with ‘La Ville-Métaphore’; Marie-Thérèse Vernet-Stragiotti on holiday</p>
+	<p>CERFI Genealogy group’s ‘règlement de comptes’ with ‘La Ville-Métaphore’; Marie-Thérèse Vernet-Straggiotti on holiday</p>
 </div>
 
 <div class="timeline-entry">
