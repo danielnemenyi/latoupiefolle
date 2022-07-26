@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# *La toupie folle*/The mad spinning top
+# *La toupie folle* (The mad spinning top)
 
  December 1973 saw the publication of issue 13 of the journal
  *Recherches*, founded among others by activist and philosopher Félix
