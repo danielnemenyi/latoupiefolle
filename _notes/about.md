@@ -60,7 +60,7 @@ collective research, especially as driven by an activist agenda oriented
 toward social change, the evacuation of a critical moment in the history
 of French critical theory, and analysis of the way in which concepts are
 deployed in relation to specific elements of the social field, such as
-cities, territories and 'équipements collectifs' referred to in
+cities, territories and 'équipements collectifs' referred to in the 
 *Recherches 13* sub-title.
 
 ## La Toupie Folle
