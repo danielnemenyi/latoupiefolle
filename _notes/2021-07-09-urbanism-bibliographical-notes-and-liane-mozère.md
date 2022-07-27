@@ -434,7 +434,7 @@ But no, actually, this is not it. The *Dits et ecrits* say that in
 meeting of the Society for the history of the revolution of 1848, and
 series of articles in the *Annales historiques de la revolution
 francaise* followed, to which Foucault responded. On this issue (OK,
-so this is a digression, this
+so this is a digression), this
 [article](https://www.jstor.org/stable/2124485?seq=15#metadata_info_tab_contents)
 is interesting and potentially useful. But I can't find the
 'invitation' to which Liane refers.
