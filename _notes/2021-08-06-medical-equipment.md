@@ -72,18 +72,18 @@ This work is in the bibliography, published by SEVPEN (Service
 d\'Edition et de Vente des Publications de l\'Education Nationale).
 Roupnel, b. 1871, d. 1946, friend of [[Gaston Bachelard]]. It is not cited by
 Foucault in *Naissance de la clinique*, but is by [[Braudel]] in *La
-Méditerrannee* and *Civilization et capitalisme*.
+Méditerrannée* and *Civilization et capitalisme*.
 
 Move (*glissement*) whereby the place of internment takes on an ethical
 vocation. The hospital as a place of *correction* to bring the nomadic
 and poor back within the realm of productivity. Reference here to
 Foucault's *Histoire de la folie*, on the hospital in the pre-modern
-period as 'a forteresse de l'ordre moral', in the chapter on 'Le Grand
+period as a 'forteresse de l'ordre moral', in the chapter on 'Le Grand
 enfermement' where Foucault is discussing the workhouses of protestant
 Europe of the 17thC.
 
-But suddenly internment encounters limits. 1749- arrest of all beggars;
-1765 creation of centres for beggars (*depots de mendicité*) \[discussed
+But suddenly internment encounters limits. 1749 – arrest of all beggars;
+1765 – creation of centres for beggars (*depôts de mendicité*) \[discussed
 by Foucault in *Histoire de la folie* chapter on 'Le Nouveau partage'\].
 The idea of the hospital as a place of 'assistance' and repression of
 unemployment is put in question. The moral question of poverty etc
@@ -118,7 +118,7 @@ president and founder of the society for the history of hospitals and
 was himself a hospital director.
 
 Doctors nevertheless have a specific knowledge independent of hospitals
-'savoir noseographique'; epidemics as a salient issue; power decides to
+'savoir noséographique'; epidemics as a salient issue; power decides to
 take medicine in hand faced with the ravages of epidemics'; create a
 knowledge turned towards the population in the form of prescriptions;
 'constitution d'un sur-savoir retourné en pouvoir'. Creation of Royal
@@ -148,7 +148,7 @@ but comes up against a new power which is that of medical knowleldge --
 practice and teaching and giving the doctor the power of enunciation.
 
 Still following *Naissance de la clinique* and citing its references,
-but adding Haroun Jamous contribution to a University (Paris 7)
+but adding Haroun Jamous' contribution to a University (Paris 7)
 collective publication on medical sociology.
 
 Reduced role of the State, except as police... social assistance
