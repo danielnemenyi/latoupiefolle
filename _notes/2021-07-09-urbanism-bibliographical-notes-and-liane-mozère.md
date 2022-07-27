@@ -104,7 +104,7 @@ his [Progressive Geographies
 blog](https://progressivegeographies.com/2015/11/25/books-received-recherches-foucault-fourquet-shakespeare-vasudevan-whatmore/)).
 The authors include the usual suspects (Fourquet, Maury, [[Mozère]],
 [[Querrien]], [[Murard|Murart]] (sic.) but also [[Christian Hennion]] (see
-later). Elden's account of the first Foucault dialogue in [*Foucault:*
+later)). Elden's account of the first Foucault dialogue in [*Foucault:*
 *The Birth of
 Power*](https://politybooks.com/foucault-the-birth-of-power/) (Polity,
 2017), pp. 168-77, is instructive, but understandably slanted towards
