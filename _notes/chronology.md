@@ -47,7 +47,7 @@ CERFI 'Genealogy' group.**
 
 <div class="timeline-entry">
 	<h2>1963 (April)</h2>
-	<p>Publication of Michel Foucault, <em>Naissance de la Clinique</em></p>
+	<p>Publication of Michel Foucault, <em>Naissance de la clinique</em></p>
 </div>
 
 <div class="timeline-entry">
