@@ -19,8 +19,8 @@ fonctionnera comme puissance d'éclatement du concept'.
 There follows a note on terminology, that of 'inscription' and
 'enregistrement', which might imply an agent, and thus a 'culturalist'
 approach. A long footnote here the text points to an article by
-[[Francoise Choay]] (whose 1965 *Urbanisme* book was a key ref. for Chapter
-1). The article referenced 'Histoire et méthode en urbanisme' appears in
+[[Françoise Choay]] (whose 1965 *Urbanisme* book was a key ref. for Chapter
+1). The article referenced, 'Histoire et méthode en urbanisme', appears in
 a special issue of *Annales* on 'Histoire et urbanisation' of
 July-august 1970. Choay is criticised, again, for having postulated an
 unconscious, transcendent subject or agent of urban development.
@@ -102,7 +102,7 @@ are the prototypical event for collective equipment. Reference here to
 abandoned children at the end of the 18thC.
 
 The chapter moves on to describe, with reference to Chapter 5 of
-[[Foucault]]'s *Naissance de la Clinique*, 'La Leçon des hôpitaux', the
+[[Foucault]]'s *Naissance de la clinique*, 'La Leçon des hôpitaux', the
 'hesitation' at the time of the Revolution between care in the family or
 care in the hospital (risk of hospital illnesses). i.e. illness is not
 separable from the question of the family. The dichotomy --
@@ -113,7 +113,7 @@ them -- the hospital. Confusion of 'assistance et soin' (welfare and
 care?). Collective equipments are needed, e.g. in 1794, because of the
 consequence in terms of indigence and vagabondage. 'On craint les
 mouvements populaires', unattributed, but is another citation from
-Chapter 5 of *Naissance de la Clinique* where Foucault discusses the
+Chapter 5 of *Naissance de la clinique* where Foucault discusses the
 re-organisation of the hospitals during the Revolution. The summary
 conclusion is that: collective equipment is the non-familial territory
 over which the State exerts its sovereignty directly.
@@ -135,7 +135,7 @@ collective equipments are added to recuperate the 'ratés' etc.
 This 'obsession' with fixation of manpower is accelerated as new and
 more massive potential forces of production (and of subversion) develop
 in tandem with the rise of industrial capitalism. Reference here to the
-Charter of Athens and to its 'famous' 8^th^ point about the 'chaos'
+Charter of Athens and to its 'famous' 8th point about the 'chaos'
 which entered into the cities at this time.
 
 <div class="gallery">
@@ -151,7 +151,7 @@ geographer [[Pierre Georges]] would suggest, or does it refer to the mass of
 semi-proletarians and the unemployed, 'le nom noble de la pègre'. The
 masses uprooted by capitalism and drawn to cities needed to be
 'occupied'. Thus grand works, public work programmes, and railways etc.
-Large urban projects. 1848 -ateliers nationaux' of 1848.
+Large urban projects. The ateliers nationaux' of 1848.
 
 The Pierre George (a 'precursor' in urban studies) reference is to
 *Géographie urbaine,* pub. 1961 by PUF, (another scholarly work).
