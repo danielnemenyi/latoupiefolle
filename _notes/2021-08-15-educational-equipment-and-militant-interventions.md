@@ -27,7 +27,7 @@ and [[Alain Fabre|Alain (Fabre)]];
 
 **Educational Equipment**
 
-To note first of all that a substantial focus by Anne on education,
+To note first of all a substantial focus by Anne on education,
 especially primary schools.
 
 See [[Stuart Elden]]'s [post on
@@ -107,7 +107,7 @@ Goes on to say that this is the basis of what will eventually become law
 with the development of a real 'appareil d'Etat' across the whole
 national territory; post-Revolutionary projects: normalising and
 moralising 'quadrillage'; 'imposition d'un ration uniforme'.
-Uniformization ad rationalisation (thus the term 'normale' to designate
+Uniformization and rationalisation (thus the term 'normale' to designate
 the schools who will train the teachers). This is referred to as 'la
 machine à former des citoyens français', but the different attempts to
 do this 1789-1833 failed, and the church regained power. The July
@@ -122,7 +122,7 @@ Creation of 'maternelles' or 'salles d'asile'.
 
 'Ainsi s'est constitué en deux années, d'un seul coup, l'appareil qui va
 recoder aux niveaux national étatique (celui de la carrière de
-l'inspecteur national), departmental et communal, les flux de futurs
+l'inspecteur national), départmental et communal, les flux de futurs
 travailleurs, détachés de la famille par le travail industriel.'
 
 The 'Manifesto of the 60' in 1864
@@ -148,7 +148,7 @@ to write etc. Seems to be conscious of the class divisions between
 herself (daughter of a State functionary) and the disadvantaged. Can
 'intelligence' be collectivized, and destroy intelligence as an
 individual qualification? Anne says this was what was at stake in
-UNEF, the Movement of the 22^nd^ March, FGERI and the Opposition de
+UNEF, the Movement of the 22nd March, FGERI and the Opposition de
 gauche. All opposed to the PCF and the State it represented. She
 contrasts the 'democratic' struggle against the State apparatus and
 the 'partial struggles on a heterogeneity of objects of investment',
@@ -176,7 +176,7 @@ conjugality. She was delegated the part on logical categories,
 But MT leaves, and Anne has to serve. The MLF has not fixed anything.
 Anne says she has moved to Rue Baudricourt and there are now two 'women
 theorists' (with Francoise). Anne is absorbed in the sexual, conjugal,
-homosexual-masculine problematic accords much more importance to theory
+homosexual-masculine problematic and accords more importance to theory
 insofar as she sees herself as inferior to the 'specialists' ([[Foucault]],
 [[Deleuze]]), who are nevertheless not attuned to the political practice
 (ref. to relations with the Gauche proletairienne and the Grandmontagne
@@ -218,8 +218,8 @@ to this as an 'ordinary fascism', with reference to the 1969 film
 at stake; she makes it clear that it's not a 'hold-up', i.e. just
 completing whatever needed to be done for the Ministry; there was an
 investment in it, and the sense of a 'subversive' work. She doubts
-however if this 'subversion; is not just a cover for not doing
-anything, i.e., perhaps, for the abandonment of militant activity. On
+however if this 'subversion'; is it not just a cover for not doing
+anything? i.e., perhaps, for the abandonment of militant activity. On
 the relation to 'theory' she asks if Anti-Oedipus functions as a
 doctrine. She says she does find it annoying that sometimes the
 language of Anti-Oedipus, - 'multiplicity of flux' etc, is used as a
