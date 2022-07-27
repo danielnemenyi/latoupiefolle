@@ -19,7 +19,7 @@ footnote, determines the sociology of urbanism in its entirety,
 referring to [[Raymond Ledrut]], *Sociologie urbaine* (PUF, 1968),
 [[Pierre-Henri Derycke]], *L'économie urbaine* (PUF, 1970) and an
 *Annales* issue, 'Histoire et urbanisation' from July-August 1970.
-They are little more charitable to [[Manuel Castells]] (who had taken
+They are a little more charitable to [[Manuel Castells]] (who had taken
 up a post at the Ecole des Hautes études en sciences sociales in 1970)
 whose first book, *La Question urbaine*, was published by the leftist
 publisher Maspero in 1972, and which CERFI refer to as 'une véritable
