@@ -18,7 +18,7 @@ process of its composition was somewhat chaotic; specific sections are
 authored by different individuals or pairs of individuals within the
 group; some bits of text ended up not being included. Moreover, the
 group was not without its conflicts and hierarchies, with the
-'Genealogy' group consisting of [[Fourquet]], [[Murard]] and [[Vernet-Straggiotti]]
+'Genealogy' group consisting of [[Fourquet]], [[Murard]] and [[Vernet-Straggiotti]] (with
 [[Querrien]] and [[Lévy]] as somewhat peripheral or intermediary) having more
 power and authority. The point is that the 'collective' work of the
 group is characterised by a play or relation of forces, and these are
@@ -60,7 +60,7 @@ provenance of the ideas and concepts. Fourquet is perhaps on a slightly
 different footing, with more authority, but even here, in the discussion
 with Guattari, there is the sense that the former 'hasn't got it' (i.e.
 the concept of anti-production and axiomatic of capitalism). In the FDG
-interventions, especially around the question of 'categories logiques',
+interventions, especially around the question of 'catégories logiques',
 there is a kind of supervisor/student relation, wherein FDG seem to
 suggest something like, 'this is not the right way of conceptualizing
 collective equipment' etc. Again this is upfront, and R13 thus appears
