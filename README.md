@@ -4,9 +4,9 @@
 
 This repository contains the source code for the Mad Spinning Top website, currently hosted at:
 
-https://la-toupie-folle.netlify.app/
+https://latoupiefolle.org  
 
-It is a [Jekyll](https://jekyllrb.com/) website extended via a customised version of [Maxime Vaillancourt's Digital Garden](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+(Alternative url: https://latoupiefolle.netlify.app)
 
 ## How to update and edit the site
 
@@ -201,5 +201,8 @@ It goes without saying that if you need any help, just get in touch with Daniel!
 ## License
 
 Source code is available under the [MIT license](LICENSE.md).
+
+This is a [Jekyll](https://jekyllrb.com/) site which extends [Maxime Vaillancourt's Digital Garden](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+
 
 
