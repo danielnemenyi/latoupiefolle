@@ -1,4 +1,4 @@
 ---
-title: "Proust"
+title: "Marcel Proust"
 type: "person"
 ---

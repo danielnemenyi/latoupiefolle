@@ -299,13 +299,13 @@ In more detail:
 
   - Discussion: Guattari, Fourquet, [[Anne Querrien|Querrien]]
 
-  - Interventions militantes: Anne, [[Marie-Thérèse Vernet-Straggiotti|Marie-Thérèse]]
+  - Interventions militantes: Anne, [[Vernet-Straggiotti|Marie-Thérèse]]
 
 - Chapter 5 -- Le Discours du Plan
 
   - Discussion -- Deleuze, Guattari, Foucault,
 
-  - Intervention militante -- [[Marie-Thérèse]]
+  - Intervention militante -- [[Vernet-Straggiotti|Marie-Thérèse]]
 
 - Chapter 6 -- Economie politique sans famille
 

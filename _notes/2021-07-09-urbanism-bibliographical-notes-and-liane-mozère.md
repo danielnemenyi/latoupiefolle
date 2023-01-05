@@ -17,7 +17,7 @@ militante' from [[Querrien|Anne (Querrien)]], and the discussion with
 [[Foucault|Michel (Foucault)]]. These materials appear to have been
 written in 1971-1972. So if this can count as a first series it shows
 the strong influence of the theses being developed by
-[[Deleuze-Guattari|Deleuze & Guattari]] for *Anti-Oedipus* (henceforth
+[[Deleuze]]-[[Guattari]] for *Anti-Oedipus* (henceforth
 AO) \[see correspondence in [[Deleuze]], *Lettres et autres textes*;
 the account of Deleuze and Guattari 's encounter in [[Dosse]], and the
 transcriptions of Deleuze's lectures at Vincennes on

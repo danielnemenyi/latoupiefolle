@@ -1,4 +1,4 @@
 ---
 title: "Le Corbusier"
-type: "person"
+type: person
 ---

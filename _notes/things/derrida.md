@@ -1,4 +1,4 @@
 ---
-title: "Derrida"
+title: "Jacques Derrida"
 type: "person"
 ---
