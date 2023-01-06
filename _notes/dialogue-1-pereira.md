@@ -1,53 +1,63 @@
 ---
 date: 2022-02-25
 title: "Dialogue #1 / Godofredo Enes Pereira"
+permalink: "/dialogue/1-pereira"
 type: interview
 ---
 
-*We engage in dialogue with researchers and authors whose work intersects with ours. Godofredo Pereira is an architect, researcher and head of the Environmental Architecture MA at the Royal College of Art. He has led research on collective equipment and is co-author of the forthcoming book *CERFI. Militant Analysis, Collective Equipment and Institutional Programming*. In this conversation, we share our work-in-progress research with Godofredo, find points of mutual interest and hear some interesting feedback on our project. *
+<strong>We engage in dialogue with researchers and authors whose work
+intersects with ours. [[Godofredo Pereira]] is an architect, researcher
+and head of the Environmental Architecture MA at the Royal College of
+Art. He has led research on collective equipment and is co-author of
+the forthcoming book *CERFI. Militant Analysis, Collective Equipment
+and Institutional Programming*. In this conversation, we share our
+work-in-progress research with Godofredo, find points of mutual
+interest and hear some interesting feedback on our project.</strong>
 
-**Patrick ffrench**: I thought it might be useful to summarise some of
+---
+
+**[[Patrick ffrench]]**: I thought it might be useful to summarise some of
 the things we have done for our project. So we\'ve done a quite detailed
 chronology of not only the work of the CERFI group itself, but also of
 the things around it, such as publications, events, seminars,
 lectures...
 
-**Susana Caló**: Godofredo, this is similar to something I know you have
+**[[Susana Caló]]**: Godofredo, this is similar to something I know you have
 done in your research, a chronology that tries to capture the social,
 political and conceptual context of the activities of the group.
 
-**Pff**: And we have been meeting online mostly to discuss these things,
+**[[Patrick ffrench|Pff]]**: And we have been meeting online mostly to discuss these things,
 and the trajectory of our thinking about it has changed a bit. I got
 kind of into a more biographical approach, thinking about the kind of
 conflicts and tensions that arose around the issue between the CERFI
-group and Félix Guattari, on the one hand, and Robert *Linhart of the
-Gauche prolétarienne, on the other,* for example, and the responses to
+group and [[Félix Guattari]], on the one hand, and [[Robert Linhart]] of the
+*Gauche prolétarienne, on the other,* for example, and the responses to
 the articles that were published in *Le Monde and Libération about
 CERFI*. That led me into a kind of biographical research or fascination
 with that context. We\'ve also done another thing, we\'ve produced a
 number of what we call *dossiers*, which are not so much blogs, as
-focused investigations on particular aspects. There\'s a Nietzsche
+focused investigations on particular aspects. There's a [[Nietzsche]]
 dossier, looking at how CERFI engaged with what was going on Nietzsche
-at the time, one on Klossowski, who was a kind of a tangentially related
+at the time, one on [[Klossowski]], who was a kind of a tangentially related
 connection to the CERFI issue, one on the FHAR (*Le Front d'action
-homosexuelle révolutionnaire*) and one on Foucault as well. But more
-recently, what we\'ve been doing is to go back to our original aim,
+homosexuelle révolutionnaire*) and one on [[Foucault]] as well. But more
+recently, what we've been doing is to go back to our original aim,
 which was to trace, to map, as we as we put it, the concepts that were
 used in *Recherches 13*, to group them and then comment them. So, we're
 just at the point of establishing a kind of list of key concepts and
 groups of concepts, some of which derive or seem to derive from
 L\'*Anti*-*Œdipe*, some of which relate more to Foucault and
 *L\'Archéologie du savoir* and Foucault's earlier work *Naissance de la
-clinique* and *Histoire de la folie*, some of which relate to Sartre,
+clinique* and *Histoire de la folie*, some of which relate to [[Sartre]],
 some of which are more baseline Marxist concepts like production,
-dialectics and so on, and some of which relate to Braudel. We have a
+dialectics and so on, and some of which relate to [[Braudel]]. We have a
 draft list, we now want to try and analyze that or do something with it,
 to map it and find some way of representing what we\'re doing with it. I
 think that\'s where we are. Do you want to add anything to that, Susana?
 
-**SC**: I just wanted to add that the alternative title of the project
+**[[Susana Caló|SC]]**: I just wanted to add that the alternative title of the project
 is *La Toupie Folle*, which means the mad spinning top, and is an
-expression that we took from Marie-Thérèse Vernet-Straggiotti
+expression that we took from [[Marie-Thérèse Vernet-Straggiotti]]
 
 that appears in a collective discussion at the end of the issue to
 describe the work in R13. The mad spinning top is a very productive
@@ -66,7 +76,7 @@ think that\'s very interesting. That\'s important to say part of the
 project is that we also connect with other people such as you that are
 developing very close work to ours like you have been for all these
 years. The other two people we thought about entering into dialogue with
-is Andy Goffey and Stuart Elden.
+is [[Andy Goffey]] and [[Stuart Elden]].
 
 So, I guess the other thing that\'s important to mention, Patrick, is
 that apart from being doing research work about the CERFI, Godofredo
@@ -81,7 +91,7 @@ CERFI did at the New Towns so it would be good to hear what you think
 about the genealogy group in relation to the New Towns' group or its
 research.
 
-**Godofredo Pereira:** That's great, thanks for the overview. I think
+**[[Godofredo Pereira]]:** That's great, thanks for the overview. I think
 the first thing in my mind is that it\'s actually quite interesting, the
 complementarity between our projects. So, what we\'re trying to do, and
 surely Susana has told you this already, is to focus on the arc that
@@ -89,8 +99,8 @@ starts in the 1950s and 1960s through to the 1980s. It\'s very much
 based on interviews and all these archival materials, and it's an
 attempt to rewrite the way in which CERFI's history has been told,
 insofar as it has been told in a very fragmentary way by those few that
-have approached it. But also, to rewrite the way that Deleuze and
-Guattari have been understood, particularly in the Anglo-Saxon context,
+have approached it. But also, to rewrite the way that [[Deleuze]] and
+[[Guattari]] have been understood, particularly in the Anglo-Saxon context,
 very much from a Deleuze-centred perspective and a slightly apolitical
 and acontextual reading of these authors. And so, what happens before
 '68, with *FGERI* (*Fédération des groupes d\'études et de recherches
@@ -101,27 +111,27 @@ these sets of decisions that are taking place mark a series of shifts
 that imprint CERFI's life. But we don\'t have much time to dedicate to
 everything, and we focus a lot on *Recherches 13* even though it is the
 issue about which more is published, because it is where more work needs
-to be done. I don\'t know if you have read, for example, Sven*-*Olov
-Wallenstein's work that touches on *Recherches 13*. As an overall
+to be done. I don\'t know if you have read, for example, [[Sven-Olov Wallenstein|Sven-Olov Wallenstein's]]
+work that touches on *Recherches 13*. As an overall
 research project on CERFI has not been done, you end up with fragmentary
 readings of a fragmentary output, which produces incomplete
 interpretations. From the moment that CERFI decided to put those very
 nuanced and personal positions in the world that\'s unavoidable.
-Sven*-*Olov Wallenstein is interesting. He has looked at CERFI, a few
+Sven-Olov Wallenstein is interesting. He has looked at CERFI, a few
 decades ago, I think, maybe already a couple of decades, early 2000s.
-His work is a good complement to that of Stuart Elden. It would also be
-good to have Stuart Elden contributing vis-vis the influence of Braudel
+His work is a good complement to that of [[Stuart Elden]]. It would also be
+good to have Stuart Elden contributing vis-vis the influence of [[Braudel]]
 in *Recherches 13*. It's important to understand that the way that CERFI
 and *Recherches 13* read Braudel, and by that, I mean specifically how
-François Fourquet and Lion Murard read Braudel, which is not the same
-way in which Guattari and Deleuze are reading Braudel necessarily while
+[[François Fourquet]] and [[Lion Murard]] read Braudel, which is not the same
+way in which [[Guattari]] and [[Deleuze]] are reading Braudel necessarily while
 they\'re writing *Anti-Oedipe*. Even though that's not particularly
 relevant for R13 itself, it trickles down into what are differing takes
 on collective equipment from Fourquet and Guattari.
 
 So, to go back to what I was saying, I would try to look at some of
-Sven's work because he fits really well in the mix of characters that
-you have here. Andy Goffey is great too. I started doing work on
+[[Sven-Olov Wallenstein|Sven's]] work because he fits really well in the mix of characters that
+you have here. [[Andy Goffey]] is great too. I started doing work on
 collective equipment because he threw in interesting lines about
 collective equipment in his introduction to the translation of
 Guattari's 1979 work published as *Lignes de Fuite*. That's a work at
@@ -138,10 +148,10 @@ As you were speaking a couple of things come to mind. You mentioned the
 dossiers that you are doing, I think it would be interesting to look
 into Lacan on the question of desire and need, because it was a crucial
 reference for Guattari at the time, as well as Sartre, and then the way
-in which the desire-need dyad in Lacan is reframed in a more kind of
+in which the desire-need dyad in [[Lacan]] is reframed in a more kind of
 positive approach, or productivist approach of desire, in Guattari. I
-would say a few more things, I\'d note that the meeting with Michel
-Conan is in 1970, it\'s a bit earlier. So, they meet him by chance, or
+would say a few more things, I\'d note that the meeting with [[Michel Conan]]
+is in 1970, it\'s a bit earlier. So, they meet him by chance, or
 they meet the secretary by chance and they have the first meeting, then
 they produce a text, then there\'s a call for tenders. And then there\'s
 these two things: there\'s the funding for the exploratory work in Evry
@@ -183,7 +193,7 @@ Yes, but what you\'ll notice and what we started noticing, is that in in
 the group there are dissidences. And it's really complex to understand
 the internal conflicts in *Recherches 13* just by the militant comments
 that appear in there, because they lead to a bit of confusion. I would
-note that Fourquet and Murard, in their introduction, do a bit of
+note that [[Fourquet]] and [[Murard]], in their introduction, do a bit of
 unpacking as well, even though it\'s a militant comment from the top, we
 are writing this and we do the militant unpacking of nuances of erotic
 knowledge and production, but still, from the top. But that -- and
@@ -193,18 +203,18 @@ differences, personal inclinations, and very practical issues. So,
 starting with personal inclinations, people like Fourquet and Murard
 like writing a lot. And it was very much a site where they wanted to
 invest their militantism. And you see that in Fourquet, if you read the
-*Recherches* 14, and his critique of Althusser, and where that
+*Recherches* 14, and his critique of [[Althusser]], and where that
 eventually leads. And these are characters that are very much not fully
 convinced by the type of militantism that used to take place pre-'68.
 And so there are certain types of characters that want to invest very
 much in writing as a continuation of their militantism, and other people
-that are less into that such as Anne Querrien, Hervé Maury, Liane Mozère
+that are less into that such as [[Anne Querrien]], [[Hervé Maury]], [[Liane Mozère]]
 who are more interested in being on the ground and intervening, etc.
 Now, that sometimes gets confused with other issues derived from
 different positions on certain topics between men and women, but it\'s
 not exactly the same, even though there are clear patriarchal aspects at
 play. So, there\'s a political distinction there, but there\'s also
-different types of readings. For example. Lefebvre was very important to
+different types of readings. For example. [[Lefebvre]] was very important to
 Anne Querrien, she did her PhD with him. And so with Lefebvre we have
 the importance of everyday life and so she will do more inclined to do
 work on the ground, versus someone like Fourquet or Murard. So yes, it's
@@ -225,8 +235,8 @@ within the group.
 A few other things occurred as you were speaking, Susana was asking
 about the genealogy group and the New Towns group. They are working in
 parallel, but not working together. Fourquet and Murard were part of
-Evry at the beginning but then Evry ends first and work in Melun Senart
-and Marne*-*la*-*Vallée continues much further, leading into other types
+Evry at the beginning but then Evry ends first and work in Melun-Sénart
+and Marne-la-Vallée continues much further, leading into other types
 of urban projects. These works are being developed in parallel, but not
 theorised together in a systematic way.
 
@@ -260,7 +270,7 @@ difficult to find all the reports. And I think that\'s, again, one of
 the important things that we hope to be able to say, in a clearer way,
 which is that we should imagine this group and its ethics as towards
 militancy and political impact; it's not towards due process for
-research grant providers. So, they\'ll give one title and put Foucault
+research grant providers. So, they\'ll give one title and put [[Foucault]]
 in the name, and someone else would do it and then someone else would
 write it, someone who had the time. So it's a young group of researchers
 which doesn't have a very systematic way of organization. Though I would
@@ -293,7 +303,7 @@ aim to provide a sense of certainty.
 so that this idea that it\'s not systematic in the way that one might
 have wanted it to be, but systematic in a different kind of way. I don't
 think we have quite grasped that yet, Susana. But I'm thinking about our
-idea of *la toupie folle* which we take from Marie-Thérèse and which she
+idea of *la toupie folle* which we take from [[Marie-Thérèse]] and which she
 uses to describe the kind of process when they have to draft a report
 but is also something about the rotation of the work that relates to the
 organization of the group. And it\'s also not collective in that
@@ -302,7 +312,7 @@ with one voice. It\'s more like a spinning of different aspects.
 
 **SC**: It\'s the mechanism itself. That kind of collective: it spins,
 it might spin onto someone that does not want to do the work, who
-doesn't know. So we should do that, Patrick, we should just spin it.
+doesn't know. So we should do that, [[Patrick ffrench|Patrick]], we should just spin it.
 
 **GP**: I think that is an important concept. In the Clinique La Borde,
 participation is not always on the same model and that kind of expected
@@ -328,7 +338,7 @@ the big fissures in the group.
 it has the collective discussions that contain, you know, harsh
 critiques coming from some members, and these discussions intercalate
 with the more historical pieces of research, and they could almost have
-done two separate books. For example, Stéphane Nadaud, when he writes
+done two separate books. For example, [[Stéphane Nadaud]], when he writes
 about the reviews, says that the work is not collective, you know, lacks
 collectivity, I don't share this view. This is an editorial, collective
 object in the sense in which they allow for those discrepancies to show
@@ -338,22 +348,22 @@ up, for all that conflict to be very visible.
 which raise these internal fissures, in the paperback edition and remove
 that completely.
 
-**SC**: We will have to ask Florence Petry how that process was done.
+**SC**: We will have to ask [[Florence Pétry]] how that process was done.
 What happened? Who made that decision?
 
-**GP**: They erased Anne Querrien, they erased Françoise Paul-Levy;
+**GP**: They erased [[Anne Querrien]], they erased [[Françoise Paul-Levy]];
 there are a few militant interventions that they erased. And I feel
 that\'s a very violent take. I think it\'s also interesting to
 understand and to read the introduction. I think it\'s should be quite
 near the beginning. I think it\'s actually a preface or just a little
 paragraph. And we quote it the book, when we speak about these processes
-of collective doing, how for example Fourquet introduces the work on R
-13. In one way, there\'s an approach which has to do with labour, who
+of collective doing, how for example [[Fourquet]] introduces the work on R 13.
+In one way, there\'s an approach which has to do with labour, who
 did work. On the other hand, there\'s an approach to an expectation of
 collective work. I think, even though CERFI wanted to do collective
 work, what they didn\'t have is a unified idea of what constitutes
 collective work? Is it a collective work, because we list all the names?
-There are issues, for example in *Babillages*, where Liane Mozère lists
+There are issues, for example in *Babillages*, where [[Liane Mozère]] lists
 all the names of the people that participated in the research, and
 listed her name as the author of the report. And that ultimately became
 the format that were more happy with, because basically the difficulty
@@ -373,7 +383,7 @@ author, the enunciator.
 
 **GP**: Yes, and I think it\'s important to think through this internal
 tension. Internal tension does not mean a problem that needs to be
-resolved. That's my problem with Sven-Olov Wallenstein's essay on R13:
+resolved. That's my problem with [[Sven-Olov Wallenstein|Sven-Olov Wallenstein's]] essay on R13:
 that there\'s almost an assumption that there\'s a group that should
 work peacefully in a democratic way and come to a conclusion at work,
 right. CERFI is anti-that. Actually La Borde is not a place to go for
@@ -418,7 +428,7 @@ both working on the genealogy of concepts, I feel that would be one
 interesting thing. I don\'t know how systematic it is, but at least
 there\'s some lovely insights I imagine into how many of those concepts
 make their way into the militant interventions, into the introduction by
-Fourquet, which words are actually used, which words get to be embedded,
+[[Fourquet]], which words are actually used, which words get to be embedded,
 right, and which ones are not. What is the stuff that you only deploy
 when you\'re deploying some sort of academic finesse in framing an
 argument?

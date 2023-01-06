@@ -9,7 +9,7 @@ permalink: /interviews
 <p>
 {% for note in site.notes %}
 	{% if note.type == 'interview' %}
-		<a href="{{ note.title | slugify }}">{{ note.title }}</a>
+		<a href="{{ note.url }}">{{ note.title }}</a>
 	{% endif %}
 {% endfor %}
 </p>
