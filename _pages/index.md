@@ -19,5 +19,11 @@ permalink: /
  deployed, the multiple contexts surrounding the issue, and the
  research process involved. 
  
- For more information see our [about page]({% link _notes/about.md
- %}).
+ For more information see our [about page]({% link _notes/about.md %}).
+
+The project would not have been possible if the journal Recherches had
+not existed as a tool for CERFI to publish and disseminate its
+on-going research, without the support of Anne Querrien throughout the
+years, the kind help from Florence Pétry at Editions Recherches, and
+the work that preceded ours by colleagues such as Godofredo Enes
+Pereira, Andy Goffey and Stuart Elden.
