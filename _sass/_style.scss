@@ -192,7 +192,7 @@ button {
     #backlink-wrapper {
 	position: static;
 	grid-area: backlinks;
-	font-size: 0.8em;
+	font-size: 0.7em;
     }
 }
 
@@ -202,6 +202,14 @@ button {
     border: 1px solid #bebebe;
     box-shadow: #cdcdcd8f 3px 3px 1px;
     background: white;
+
+    ul {
+	padding-left: 0;
+
+	li {
+	    list-style-position: inside;
+	}
+    }
 }
 
 .notes-entry-container .mentioned-in {
