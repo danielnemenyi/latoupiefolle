@@ -1,4 +1,4 @@
 ---
-title: Claude Roualt
+title: Claude Rouot
 type: person
 ---

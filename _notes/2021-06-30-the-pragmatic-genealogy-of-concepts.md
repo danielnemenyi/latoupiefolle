@@ -198,7 +198,7 @@ Francoise (2): mentions:
 
 - Colette (JOLY?),
 
-- Claude ([[Claude Harmelle|HARMELLE]]? Or [[Claude Rouault|ROUAULT]]?)
+- Claude ([[Claude Harmelle|HARMELLE]]? Or [[Claude Rouot|ROUOT]]?)
 
 - Christian (HENNION?),
 

@@ -361,7 +361,7 @@ and [[Jean-Marie Domenach]], [[Daniel Defert]] (linked to the *Gauche
 proletairienne* movement), [[Maurice Clavel]], eventually [[Deleuze]]....
 
 Liane adds in a note that there were a number of 'croisements' btw.
-CERFI and the GIP, [[Ariane Cotlenko]] and [[Claude Roualt]], for example,
+CERFI and the GIP, [[Ariane Cotlenko]] and [[Claude Rouot]], for example,
 moved across from the GIP to CERFI, though the 'Claude' referred to in
 R13 could also be [[Claude Harmelle]].
 
