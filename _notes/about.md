@@ -5,14 +5,14 @@ permalink: /about
 
 <img style="float: right; margin-left: 1em; width: 40%;" src="/assets/img/recherches-1973.webp">
 
-Our research project, *The Pragmatic Genealogy of Concepts* funded by a
-Small Grant from the British Academy and Leverhulme Trust, concerns, as
-its primary object, an issue of the journal *Recherches* (number 13)
-from December 1973, which bears the title *La Généalogie du capital: les
-équipments du pouvoir*. The issue is the result of a working group of
-the organisation CERFI (Centre d'études, de recherches et de formation
-institutionelles), established by French activist, psychiatrist and
-philosopher [[Félix Guattari]] in 1965.
+Our research project, *The Pragmatic Genealogy of Concepts* funded by
+a Small Grant from the British Academy and Leverhulme Trust, concerns,
+as its primary object, an issue of the journal *Recherches* (number
+13) from December 1973, which bears the title *La Généalogie du
+capital: les équipments du pouvoir*. The issue is the result of a
+working group of the organisation CERFI (Centre d’études, de
+recherches et de formation institutionelles), established by French
+activist, psychiatrist and philosopher [[Félix Guattari]] in 1965.
 
 Our interest in *Recherches* 13 and the contexts around it is multiple,
 but may be usefully grouped around the following factors:
