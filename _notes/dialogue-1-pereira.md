@@ -303,7 +303,7 @@ aim to provide a sense of certainty.
 so that this idea that it\'s not systematic in the way that one might
 have wanted it to be, but systematic in a different kind of way. I don't
 think we have quite grasped that yet, Susana. But I'm thinking about our
-idea of *la toupie folle* which we take from [[Marie-Thérèse]] and which she
+idea of *la toupie folle* which we take from [[Vernet-Straggiotti|Marie-Thérèse]] and which she
 uses to describe the kind of process when they have to draft a report
 but is also something about the rotation of the work that relates to the
 organization of the group. And it\'s also not collective in that
