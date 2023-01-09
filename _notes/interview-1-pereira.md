@@ -1,8 +1,14 @@
 ---
 date: 2022-02-25
-title: "Dialogue #1 / Godofredo Enes Pereira"
+title: "Interview #1 / Godofredo Enes Pereira"
 permalink: "/dialogue/1-pereira"
 type: interview
+tags:
+  - line of flight
+  - NEMENYI
+  - archaeology
+  - Deleuze
+
 ---
 
 <strong>We engage in dialogue with researchers and authors whose work
