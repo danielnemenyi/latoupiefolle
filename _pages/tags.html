@@ -1,0 +1,39 @@
+---
+layout: default
+title: Tags
+permalink: /tags
+---
+
+<h1>{{ page.title }}</h1>
+
+{% assign orderedTags = '' | split: ', ' %}
+
+<!-- Create an ordered list of tags -->
+{% for note in site.notes %}
+    {% for tag in note.tags %}
+        {% assign tagName = tag  | split: ', ' %}
+        {% assign orderedTags = orderedTags | concat: tagName %}
+    {% endfor %}
+
+    {% assign orderedTags = orderedTags | sort_natural %}
+{% endfor %}
+
+<!-- Print the ordered list of tags and every relevant post -->
+{% for oTag in orderedTags %}
+
+    {% if oTag != prevTag %}
+        <h2 id="{{ oTag | url_encode }}">{{ oTag }}</h2>
+
+	<ul>
+	    {% for note in site.notes %}
+	    {% for uTag in note.tags %}
+            {% if oTag == uTag %}
+            <li><a href="{{ note.url }}">{{ note.title }}</a></li>
+            {% endif %}
+            {% endfor %}
+	    {% endfor %}
+	</ul>
+
+	{% assign prevTag = oTag %}
+    {% endif %}
+{%  endfor %}
