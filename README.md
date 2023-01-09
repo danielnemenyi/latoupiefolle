@@ -54,6 +54,10 @@ the second of these has a blank line following it.
 date: 2021-07-09
 title: "Urbanism, Bibliographical Notes and Liane Mozère"
 type: blog
+tags:
+  - Structuralism
+  - May 68
+  - militant analysis
 ---
 ```
 
