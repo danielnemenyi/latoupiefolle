@@ -4,11 +4,8 @@ title: "Interview #1 / Godofredo Enes Pereira"
 permalink: "/dialogue/1-pereira"
 type: interview
 tags:
-  - line of flight
-  - NEMENYI
-  - archaeology
-  - Deleuze
-
+  - militant analysis
+  - Communist Party
 ---
 
 <strong>We engage in dialogue with researchers and authors whose work
