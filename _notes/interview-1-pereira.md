@@ -111,31 +111,29 @@ institutionnelles*) with *Opposition Gauche*, and during '68, and the
 transition and the strategic decision to accept working with the state
 -- which was not an easy decision -- is very interesting. And so all
 these sets of decisions that are taking place mark a series of shifts
-that imprint CERFI's life. But we don\'t have much time to dedicate to
-everything, and we focus a lot on *Recherches 13* even though it is the
-issue about which more is published, because it is where more work needs
-to be done. I don\'t know if you have read, for example, [[Sven-Olov Wallenstein|Sven-Olov Wallenstein's]]
-work that touches on *Recherches 13*. As an overall
-research project on CERFI has not been done, you end up with fragmentary
-readings of a fragmentary output, which produces incomplete
-interpretations. From the moment that CERFI decided to put those very
-nuanced and personal positions in the world that\'s unavoidable.
-Sven-Olov Wallenstein is interesting. He has looked at CERFI, a few
-decades ago, I think, maybe already a couple of decades, early 2000s.
-His work is a good complement to that of [[Stuart Elden]]. It would also be
-good to have Stuart Elden contributing vis-vis the influence of [[Braudel]]
-in *Recherches 13*. It's important to understand that the way that CERFI
-and *Recherches 13* read Braudel, and by that, I mean specifically how
-[[François Fourquet]] and [[Lion Murard]] read Braudel, which is not the same
-way in which [[Guattari]] and [[Deleuze]] are reading Braudel necessarily while
-they\'re writing *Anti-Oedipe*. Even though that's not particularly
-relevant for R13 itself, it trickles down into what are differing takes
-on collective equipment from Fourquet and Guattari.
+that imprint CERFI's life. But we don\'t have time to dedicate to
+everything, and we focus a lot on *Recherches 13* because even though 
+it is the issue about which more is published, it is where more work needs
+to be done.  As an overall research project on CERFI has not been done,
+you end up with fragmentary readings of a fragmentary output, which produces
+incomplete interpretations. From the moment that CERFI decided to put those
+very nuanced and personal positions in the world that\'s unavoidable. 
+I would suggest reading Sven-Olov Wallenstein’s work on CERFI that touches 
+on *Recherches 13*. He  looked at CERFI already in the 2000s. His work is 
+an insightful complement to that of [[Stuart Elden]]. It would also be good 
+to have Stuart Elden contributing vis-vis the influence of [[Braudel]] 
+in *Recherches 13*. It's important to understand that the way that CERFI 
+and *Recherches 13* read Braudel, and by that, I mean specifically how 
+[[François Fourquet]] and [[Lion Murard]] read Braudel, which is not the 
+same way in which [[Guattari]] and [[Deleuze]] are reading Braudel 
+necessarily while they\'re writing *Anti-Oedipe*. Even though that's not 
+particularly relevant for R13 itself, it trickles down into what are 
+differing takeson collective equipment from Fourquet and Guattari.
 
-So, to go back to what I was saying, I would try to look at some of
-[[Sven-Olov Wallenstein|Sven's]] work because he fits really well in the mix of characters that
-you have here. [[Andy Goffey]] is great too. I started doing work on
-collective equipment because he threw in interesting lines about
+So, to go back to what I was saying, I would suggest engaging with Sven's
+work because it fits really well in the mix of things you are trying to do.
+[[Andy Goffey's]] work is very insightful too. I started doing work on
+collective equipment inspired by his astute lines of thought about
 collective equipment in his introduction to the translation of
 Guattari's 1979 work published as *Lignes de Fuite*. That's a work at
 the end of the New Towns project. It\'s at the end of a process of
@@ -386,7 +384,8 @@ author, the enunciator.
 
 **GP**: Yes, and I think it\'s important to think through this internal
 tension. Internal tension does not mean a problem that needs to be
-resolved. That's my problem with [[Sven-Olov Wallenstein|Sven-Olov Wallenstein's]] essay on R13:
+resolved. That's my disagreement with 
+[[Sven-Olov Wallenstein|Sven-Olov Wallenstein's]] essay on R13:
 that there\'s almost an assumption that there\'s a group that should
 work peacefully in a democratic way and come to a conclusion at work,
 right. CERFI is anti-that. Actually La Borde is not a place to go for
