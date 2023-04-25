@@ -2,6 +2,9 @@
 title: "Libidinal Economy of Theory and Theoretical Intensities II"
 date: 2021-10-04
 type: blog
+tags:
+  - Fanny Deleuze
+  - Structuralism
 ---
 
 Since the last entry I have, true to what I said, been extending the
